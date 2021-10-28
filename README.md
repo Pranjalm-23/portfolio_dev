@@ -1,5 +1,5 @@
 # DEV-PORTFOLIO
-![PranjalM](./assets/images/mainpage.png)(https://pranjalm-23.github.io/Portfoliominor/)
+![PranjalM](./assets/images/mainpage.png)(https://pranjalm-23.github.io/portfolio_dev/)
 
 ## Tech Stack
 
